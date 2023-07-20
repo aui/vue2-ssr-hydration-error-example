@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.2",
+    "vue": "2.7.14",
+    "vue-server-renderer": "2.7.14"
+  }
+}
